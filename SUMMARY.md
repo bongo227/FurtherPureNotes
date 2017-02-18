@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* Series and Limits
+  * [Simple limits](simple-limits.md)
+
