@@ -16,4 +16,6 @@
   * [Improved Euler's formula](improved-euler's-formula.md)
 * Second Order Differential Equations
   * [Euler's identity](euler's-identity.md)
+  * [Formation of second order differential equations](formation-of-second-order-differential-equations.md)
+  * [Differential equations with constants](differential-equations-with-constants.md)
 
