@@ -10,4 +10,6 @@
 * Polar Coordinates
   * [Polar and cartesian](polar-and-cartesian.md)
   * [Area bounded by a polar curve](area-bounded-by-a-polar-curve.md)
+* Numerical Methods
+  * [Euler's formula](euler's-formula.md)
 
