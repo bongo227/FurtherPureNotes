@@ -21,7 +21,7 @@ Let $$n > k$$, then as $$x \to \infty$$, $$x^{k-n} \to 0$$. The terms after $$\f
 
 #### The limit of $$x^k \ln x$$ as $$x \to 0$$
 $$
-\lim_{x \to 0}{x^k \ln x} = 0 \\
+\lim_{x \to 0}{x^k \ln{x}} = 0 \\
 \text{where } k > 0
 $$
 
