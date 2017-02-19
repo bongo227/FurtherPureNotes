@@ -36,4 +36,4 @@ $$
 \end{align}
 $$
 
-We know $$\lim_{y \to \infty}{y e^{-y}}$$ becauses its the same form as the first limit $$x^ke^{-x}$$
+We know $$\lim_{y \to \infty}{y e^{-y}} = 0$$ becauses its the same form as the first limit $$x^ke^{-x}$$
