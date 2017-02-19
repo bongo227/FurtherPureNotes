@@ -12,4 +12,5 @@
   * [Area bounded by a polar curve](area-bounded-by-a-polar-curve.md)
 * Numerical Methods
   * [Euler's formula](euler's-formula.md)
+  * [Mid-point formula](mid-point-formula.md)
 
