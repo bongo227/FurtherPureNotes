@@ -21,14 +21,20 @@ Let $$n > k$$, then as $$x \to \infty$$, $$x^{k-n} \to 0$$. The terms after $$\f
 
 #### The limit of $$x^k \ln x$$ as $$x \to 0$$
 $$
-\lim_{x \to 0}{x^k \ln{x}} = 0 \\
+\lim_{x \to 0}{x^k \ln x} = 0 \\
 \text{where } k > 0
 $$
 
 Let $$x = e^{-\frac{y}{k}}$$, then when $$y \to \infty$$, $$x \to 0$$
+
+$$
+\def\dumb{e^{-\frac{y}{k}}}
+$$
+
 $$
 \begin{align}
-\lim_{x \to 0}{x^k \ln x} &= \lim_{y \to \infty}{{e^{-\frac{y}{k}}}^k \ln e^{-\frac{y}{k}}}\\
+\lim_{x}{1}\\
+\lim_{x \to 0}{x^k \ln x} &= \lim_{y \to \infty}{{\dumb}^k \ln e^{-\frac{y}{k}}}\\
 &= \lim_{y \to \infty}{-\frac{y}{k} e^{-y}}\\
 &= -\frac{1}{k} \lim_{y \to \infty}{y e^{-y}}\\
 &= -\frac{1}{k} \times 0\\
