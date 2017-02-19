@@ -13,4 +13,5 @@
 * Numerical Methods
   * [Euler's formula](euler's-formula.md)
   * [Mid-point formula](mid-point-formula.md)
+  * [Improved Euler's formula](improved-euler's-formula.md)
 
