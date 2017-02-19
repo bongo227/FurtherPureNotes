@@ -34,7 +34,7 @@ $$
 $$
 \begin{align}
 \lim_{x}{1}\\
-\lim_{x \to 0}{x^k \ln x} &= \lim_{y \to \infty}{{\dumb}^k \ln e^{-\frac{y}{k}}}\\
+\lim_{x \to 0}{x^k \ln x} &= \lim_{y \to \infty}{\,{\dumb}^k \ln e^{-\frac{y}{k}}}\\
 &= \lim_{y \to \infty}{-\frac{y}{k} e^{-y}}\\
 &= -\frac{1}{k} \lim_{y \to \infty}{y e^{-y}}\\
 &= -\frac{1}{k} \times 0\\
