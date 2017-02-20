@@ -1,6 +1,6 @@
 # Maclaurin's series expansion
 
-The Maclaurin series for a function $$f(x)$$ is given by:
+The Maclaurin series for a function $f(x)$ is given by:
 $$
 f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + {...} + \frac{f^{(r)}(0)}{r!}x^r + {...}
 $$
